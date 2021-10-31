@@ -1,0 +1,13 @@
+{
+  "name": "starfall",
+  "version": "0.1.0",
+  "description": "Estarfall game (Phaser 3 + Typescript)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "webpack",
+    "start": "webpack --watch & live-server --port=8085"
+  },
+  "author": "Carles Ramos",
+  "license": "ISC"
+}
